@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class PartyAffiliation {
-    public static void main(String[] args) {
+public class PartyAffiliation { // class PartyAffiliation
+    public static void main(String[] args) { // main
         Scanner in = new Scanner(System.in);
 
         // Prompt and input
@@ -22,7 +22,7 @@ public class PartyAffiliation {
             System.out.print("You get an independent man."); // output "You get an independent man."
             in.nextLine();
         }
-        else
+        else // else
         {
             System.out.print("You get other."); // output "You get other."
         }// endif
