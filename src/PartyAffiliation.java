@@ -14,7 +14,7 @@ public class PartyAffiliation { // class PartyAffiliation
         }
         else if (DRIO.equals("R")) // else if DRIO == "R" then
         {
-            System.out.print("You get a republic elephant."); // output "You get a republican elephant."
+            System.out.print("You get a republican elephant."); // output "You get a republican elephant."
             in.nextLine();
         }
         else if (DRIO.equals("I")) // else if DRIO == "I" then
